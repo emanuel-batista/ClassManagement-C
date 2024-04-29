@@ -7,7 +7,7 @@ This is a simple student management system implemented in C. It allows you to ad
 The program uses the following structures:
 
 - `aluno`: Represents a student with fields for name, email, grades for 9 subjects, and the semester they are enrolled in.
-- `turma`: Represents a class of students for a particular course. It contains an array of `aluno` and a field for the course name.
+- `turma`: Represents a class of students for a particular course(in our case, University of Araraquara's Information Systems. It contains an array of `aluno` and a field for the course name.
 
 There are two instances of `turma`, `turma` and `turma2`, representing two different semesters.
 
